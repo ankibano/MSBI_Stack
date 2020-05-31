@@ -1,0 +1,7 @@
+empid,ename,dept
+1,steve,10
+5,steve,10,
+2,john,20,
+3,martin,30
+9,rex,60
+8,sam,90
